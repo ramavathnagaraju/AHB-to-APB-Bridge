@@ -168,5 +168,5 @@ State Machine Viewer:
 
 # Documentation
 
-- AMBA Modules | Chapter 4 | [AMBA Modules.pdf](https://github.com/prajwalgekkouga/AHB-to-APB-Bridge/files/9731505/AMBA.Modules.pdf)
-- AMBA Specifications | Chapter 1,2,3 and 5 | [AMBA Specifications.pdf](https://github.com/prajwalgekkouga/AHB-to-APB-Bridge/files/9731507/AMBA.Specifications.pdf)
+- AMBA Modules | Chapter 4 | [https://drive.google.com/file/d/1gOK94vfHI5Urq55PGMqZDCBGWLi_T-J1/view?usp=drive_link)
+- AMBA Specifications | Chapter 1,2,3 and 5 | [https://drive.google.com/file/d/1ucaAis54SSL56JUPu5z9Kv9zl3bkBVYE/view?usp=sharing)
