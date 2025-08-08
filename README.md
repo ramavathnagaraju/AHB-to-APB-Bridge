@@ -170,3 +170,10 @@ State Machine Viewer:
 
 - AMBA Modules | Chapter 4 |  [Click Here](https://drive.google.com/file/d/1gOK94vfHI5Urq55PGMqZDCBGWLi_T-J1/view?usp=drive_link)
 - AMBA Specifications | Chapter 1,2,3 and 5 |  [Click Here](https://drive.google.com/file/d/1ucaAis54SSL56JUPu5z9Kv9zl3bkBVYE/view?usp=sharing)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Ramavath Nagaraju.
+
